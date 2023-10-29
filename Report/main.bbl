@@ -1,0 +1,2303 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyvt/apasortcite//global/global}
+    \entry{Annett2004}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=440c55e793bc33b75baee0a88533b369}{%
+           family={Annett},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford ; New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{440c55e793bc33b75baee0a88533b369}
+      \strng{fullhash}{440c55e793bc33b75baee0a88533b369}
+      \strng{bibnamehash}{440c55e793bc33b75baee0a88533b369}
+      \strng{authorbibnamehash}{440c55e793bc33b75baee0a88533b369}
+      \strng{authornamehash}{440c55e793bc33b75baee0a88533b369}
+      \strng{authorfullhash}{440c55e793bc33b75baee0a88533b369}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-19-850756-7}
+      \field{langid}{english}
+      \field{pagetotal}{186}
+      \field{series}{Oxford master series in condensed matter physics}
+      \field{title}{Superconductivity, superfluids, and condensates}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Annett - 2004 - Superconductivity, superfluids, and condensates.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\867CXGPF\\Annett - 2004 - Superconductivity, superfluids, and condensates.pdf:application/pdf
+      \endverb
+      \keyw{Bose-Einstein condensation,Superconductivity,Superfluidity}
+    \endentry
+    \entry{Aumann2022}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5b4f8c17989edf22157df162c714e1b8}{%
+           family={Aumann},
+           familyi={A\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c555b38206c5fb0ccec33164f55a8ff}{%
+           family={Menke},
+           familyi={M\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e0fdfb97a5d24e12cfe5768c4fcf567}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={William\bibnamedelima D},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3128b19558041a57d2cb68448ccc035f}{%
+           family={Lechner},
+           familyi={L\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d8121a31e810bf7b65e23861bff5f6f8}
+      \strng{fullhash}{a59d21e525f219eeb5d1301f9eb550da}
+      \strng{bibnamehash}{a59d21e525f219eeb5d1301f9eb550da}
+      \strng{authorbibnamehash}{a59d21e525f219eeb5d1301f9eb550da}
+      \strng{authornamehash}{d8121a31e810bf7b65e23861bff5f6f8}
+      \strng{authorfullhash}{a59d21e525f219eeb5d1301f9eb550da}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We introduce {CircuitQ}, an open-source toolbox for the analysis of superconducting circuits implemented in Python. It features the automated construction of a symbolic Hamiltonian of the input circuit and a dynamic numerical representation of the Hamiltonian with a variable basis choice. The software implementation is capable of choosing the basis in a fully automated fashion based on the potential energy landscape. Additional features include the estimation of the T1 lifetimes of the circuit states under various noise mechanisms. We review previously established circuit quantization methods and formulate them in a way that facilitates the software implementation. The toolbox is then showcased by applying it to practically relevant qubit circuits and comparing it to specialized circuit solvers. Our circuit quantization is applicable to circuit inputs from a large design space, and the software is open-sourced. We thereby add an important resource for the design of new quantum circuits for quantum information processing applications.}
+      \field{day}{1}
+      \field{issn}{1367-2630}
+      \field{journaltitle}{New Journal of Physics}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{New J. Phys.}
+      \field{shorttitle}{{CircuitQ}}
+      \field{title}{{CircuitQ}: an open-source toolbox for superconducting circuits}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{24}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{093012}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1367-2630/ac8cab
+      \endverb
+      \verb{file}
+      \verb Aumann et al. - 2022 - CircuitQ an open-source toolbox for superconducti.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\GVHYV9RD\\Aumann et al. - 2022 - CircuitQ an open-source toolbox for superconducti.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1088/1367-2630/ac8cab
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1088/1367-2630/ac8cab
+      \endverb
+    \endentry
+    \entry{Bruno2015}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=dd5475d3af69323b75b9037b2ef7c138}{%
+           family={Bruno},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95ba3a07f057a17f983ac7e4f95a35a2}{%
+           family={De\bibnamedelima Lange},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af36d4b6df13cfee601f320e24fc0636}{%
+           family={Asaad},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33d52a971a39fefe0e5d2ec529e29d74}{%
+           family={Van\bibnamedelimb Der\bibnamedelima Enden},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={K.\bibnamedelimi L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff2b6fae84b19d0d94a4f0bfe7a9709a}{%
+           family={Langford},
+           familyi={L\bibinitperiod},
+           given={N.\bibnamedelimi K.},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c833f31f50c58de50633781406def803}{%
+           family={{DiCarlo}},
+           familyi={D\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9f722a4597a654aa17bb1b517a55de2}
+      \strng{fullhash}{8991de1398af4139ba0412846c0d333c}
+      \strng{bibnamehash}{8991de1398af4139ba0412846c0d333c}
+      \strng{authorbibnamehash}{8991de1398af4139ba0412846c0d333c}
+      \strng{authornamehash}{b9f722a4597a654aa17bb1b517a55de2}
+      \strng{authorfullhash}{8991de1398af4139ba0412846c0d333c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present microwave-frequency {NbTiN} resonators on silicon, systematically achieving internal quality factors above 1 M in the quantum regime. We use two techniques to reduce losses associated with two-level systems: an additional substrate surface treatment prior to {NbTiN} deposition to optimize the metal-substrate interface and deep reactive-ion etching of the substrate to displace the substrate-vacuum interfaces away from high electric fields. The temperature and power dependence of resonator behavior indicate that two-level systems still contribute significantly to energy dissipation, suggesting that more interface optimization could further improve performance.}
+      \field{day}{4}
+      \field{issn}{0003-6951, 1077-3118}
+      \field{journaltitle}{Applied Physics Letters}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{18}
+      \field{title}{Reducing intrinsic loss in superconducting resonators by surface treatment and deep etching of silicon substrates}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{106}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{182601}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.4919761
+      \endverb
+      \verb{file}
+      \verb Bruno et al. - 2015 - Reducing intrinsic loss in superconducting resonat.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\4RB7AI6L\\Bruno et al. - 2015 - Reducing intrinsic loss in superconducting resonat.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/apl/article/106/18/182601/27784/Reducing-intrinsic-loss-in-superconducting
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/apl/article/106/18/182601/27784/Reducing-intrinsic-loss-in-superconducting
+      \endverb
+    \endentry
+    \entry{Crowley2023b}{misc}{}
+      \name{author}{20}{}{%
+        {{un=0,uniquepart=base,hash=1902ab5f9889758d36f2647d6cf31d05}{%
+           family={Crowley},
+           familyi={C\bibinitperiod},
+           given={Kevin\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5c5452df9955409bec5c38e11f2c5b1}{%
+           family={{McLellan}},
+           familyi={M\bibinitperiod},
+           given={Russell\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ca48ce93601199f33f95c435bd991d5}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Aveek},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4742c3088e5fb62b2991799c9369901b}{%
+           family={Shumiya},
+           familyi={S\bibinitperiod},
+           given={Nana},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf5f47f3abeade92eeb6843e80d58010}{%
+           family={Place},
+           familyi={P\bibinitperiod},
+           given={Alexander\bibnamedelimb P.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22957652042ec8a8ed67f1f9d86758b4}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Xuan\bibnamedelima Hoang},
+           giveni={X\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec2c26f117e7da3b2dc6fac9488a3acc}{%
+           family={Gang},
+           familyi={G\bibinitperiod},
+           given={Youqi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c4c35b3f5fbb18353e30576b2ca2cda}{%
+           family={Madhavan},
+           familyi={M\bibinitperiod},
+           given={Trisha},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd163cbaa1138e4cfc68b2a743d6fca9}{%
+           family={Khedkar},
+           familyi={K\bibinitperiod},
+           given={Nishaad},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d04084c80fd1d49305cbc5697527b599}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yiming\bibnamedelima Cady},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5af9cdbd224e76cbbd146b569e037828}{%
+           family={Umbarkar},
+           familyi={U\bibinitperiod},
+           given={Esha\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e3e34382a0a3d0f23b2c37d687cf554}{%
+           family={Gui},
+           familyi={G\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4c948b008316b14bba1746cd87c8143}{%
+           family={Rodgers},
+           familyi={R\bibinitperiod},
+           given={Lila\bibnamedelimb V.\bibnamedelimi H.},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8b4a21e8e054de095549cc78450321b}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Yichen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=292c38d29bef8e729a567e6eadbbd98e}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={Mayer\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9d205e4f2c901362209eef8fec9463b}{%
+           family={Lyon},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6ec921cf0a2e7e997fcb346ffaf0352}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mingzhao},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aa51eac74cebd59d017ff70f3505db2}{%
+           family={Cava},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79c05e1dd346a7cc8e1c7396c20377aa}{%
+           family={Houck},
+           familyi={H\bibinitperiod},
+           given={Andrew\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f2c4b39158859afc57df279b53f7acc}{%
+           family={Leon},
+           familyi={L\bibinitperiod},
+           given={Nathalie\bibnamedelima P.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{1a7d053aff9b2516747dd99d084899ba}
+      \strng{fullhash}{325563e0a869ff0c22d80501606f3afa}
+      \strng{bibnamehash}{325563e0a869ff0c22d80501606f3afa}
+      \strng{authorbibnamehash}{325563e0a869ff0c22d80501606f3afa}
+      \strng{authornamehash}{1a7d053aff9b2516747dd99d084899ba}
+      \strng{authorfullhash}{325563e0a869ff0c22d80501606f3afa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Superconducting qubits are a leading system for realizing large scale quantum processors, but overall gate fidelities suffer from coherence times limited by microwave dielectric loss. Recently discovered tantalum-based qubits exhibit record lifetimes exceeding 0.3 ms. Here we perform systematic, detailed measurements of superconducting tantalum resonators in order to disentangle sources of loss that limit state-of-the-art tantalum devices. By studying the dependence of loss on temperature, microwave photon number, and device geometry, we quantify materials-related losses and observe that the losses are dominated by several types of saturable two level systems ({TLSs}), with evidence that both surface and bulk related {TLSs} contribute to loss. Moreover, we show that surface {TLSs} can be altered with chemical processing. With four different surface conditions, we quantitatively extract the linear absorption associated with different surface {TLS} sources. Finally, we quantify the impact of the chemical processing at single photon powers, the relevant conditions for qubit device performance. In this regime we measure resonators with internal quality factors ranging from 5 to 15 x 10{\textasciicircum}6, comparable to the best qubits reported. In these devices the surface and bulk {TLS} contributions to loss are comparable, showing that systematic improvements in materials on both fronts will be necessary to improve qubit coherence further.}
+      \field{day}{18}
+      \field{eprinttype}{arxiv}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{{arXiv}:2301.07848}
+      \field{title}{Disentangling Losses in Tantalum Superconducting Circuits}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{eprint}
+      \verb 2301.07848 [cond-mat, physics:quant-ph]
+      \endverb
+      \verb{file}
+      \verb Crowley et al. - 2023 - Disentangling Losses in Tantalum Superconducting C.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\ZSF4I9RY\\Crowley et al. - 2023 - Disentangling Losses in Tantalum Superconducting C.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2301.07848
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2301.07848
+      \endverb
+      \keyw{Quantum Physics,Condensed Matter - Materials Science}
+    \endentry
+    \entry{DiVincenzo2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=eb086f2913454eb2d88cdec4631aeb3e}{%
+           family={{DiVincenzo}},
+           familyi={D\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{fullhash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{bibnamehash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{authorbibnamehash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{authornamehash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{authorfullhash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{After a brief introduction to the principles and promise of quantum information processing, the requirements for the physical implementation of quantum computation are discussed. These five requirements, plus two relating to the communication of quantum information, are extensively explored and related to the many schemes in atomic physics, quantum optics, nuclear and electron magnetic resonance spectroscopy, superconducting electronics, and quantum-dot physics, for achieving quantum computing.}
+      \field{eprinttype}{arxiv}
+      \field{issn}{00158208, 15213978}
+      \field{journaltitle}{Fortschritte der Physik}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{Fortschr. Phys.}
+      \field{title}{The Physical Implementation of Quantum Computation}
+      \field{urlday}{4}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{48}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{771\bibrangedash 783}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1002/1521-3978(200009)48:9/11<771::AID-PROP771>3.0.CO;2-E
+      \endverb
+      \verb{eprint}
+      \verb quant-ph/0002077
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\jiaop\\Zotero\\storage\\MVFQS68Z\\DiVincenzo and IBM - 2000 - The Physical Implementation of Quantum Computation.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\jiaop\\Zotero\\storage\\BN3K4HHB\\0002077.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/quant-ph/0002077
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/quant-ph/0002077
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics,Quantum Physics}
+    \endentry
+    \entry{Girvin2014}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2fe7ce38663715919c6b1b7ff878347f}{%
+           family={Girvin},
+           familyi={G\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=bb1f559b5110c0a567862e8400f55166}{%
+           family={Devoret},
+           familyi={D\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=569661773dddc76112d6f65ff92cac8a}{%
+           family={Huard},
+           familyi={H\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=69cd23d0964199d7224d159979cd1e25}{%
+           family={Schoelkopf},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3edd8133ba01b5b35dd4e7e439641e8a}{%
+           family={Cugliandolo},
+           familyi={C\bibinitperiod},
+           given={Leticia\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University {PressOxford}}%
+      }
+      \strng{namehash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{fullhash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{bibnamehash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{authorbibnamehash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{authornamehash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{authorfullhash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{editorbibnamehash}{63de2b3c7f55131b1aa03d244bd02236}
+      \strng{editornamehash}{4dc8776bb094fc0cabfde5aad457887b}
+      \strng{editorfullhash}{63de2b3c7f55131b1aa03d244bd02236}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract This chapter introduces the basic concepts of quantum information processing with superconducting quantum circuits. It starts with a demonstration of how,in these electrodynamic systems, both the superconducting gap and the long-range Coulomb interactions contribute to the existence of collective modesthat have extremely low dissipationand that can be quantized. The chapter also gives in-depth coverage of quantum harmonic oscillators in all their glory from various perspectives. Superconducting qubits are then introduced, starting with the fundamental theory of the Josephson effect and moving on to a presentation of the variety of existing superconducting qubits. Particular attention is given to the dispersive readout of qubits through their interaction with a cavity into which flying modes can be scattered. Finally, the opportunities offered for quantum information processing by employing the cavity as a quantum bus are presented.}
+      \field{booktitle}{Quantum Machines: Measurement and Control of Engineered Quantum Systems}
+      \field{day}{12}
+      \field{edition}{1}
+      \field{isbn}{978-0-19-968118-1}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shorttitle}{Circuit {QED}}
+      \field{title}{Circuit {QED}: superconducting qubits coupled to microwave photons}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{113\bibrangedash 256}
+      \range{pages}{144}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780199681181.003.0003
+      \endverb
+      \verb{file}
+      \verb Girvin - 2014 - Circuit QED superconducting qubits coupled to mic.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\7AK2RWN7\\Girvin - 2014 - Circuit QED superconducting qubits coupled to mic.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/book/43704/chapter/367194888
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/book/43704/chapter/367194888
+      \endverb
+    \endentry
+    \entry{Goppl2008}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=8e53972b5ef8a9182839299e0c9bd01c}{%
+           family={Göppl},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef0c1729c60951226cb3e3acf94e737d}{%
+           family={Fragner},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d06dca373ac06d22ea0c49f28b22fac2}{%
+           family={Baur},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cc91570113baf5d24a6e3201e918367}{%
+           family={Bianchetti},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7f3a78704fe60c4102bee68acb7ce72}{%
+           family={Filipp},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dc3226cd4b486147cf429d98ba69344}{%
+           family={Fink},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=762335f211fd3d49429e63e4abcb0ed5}{%
+           family={Leek},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b63a156aa6a570356d931589e022dcbe}{%
+           family={Puebla},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=270cc5c94f30ed61a50c7afc8161c13c}{%
+           family={Steffen},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d18539c4a1208fd536ec9f5755b3ce32}{%
+           family={Wallraff},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67bef5b00e22254e3f34cdb08213035e}
+      \strng{fullhash}{2fa161da36f7d95828febf8d6d961ca5}
+      \strng{bibnamehash}{2fa161da36f7d95828febf8d6d961ca5}
+      \strng{authorbibnamehash}{2fa161da36f7d95828febf8d6d961ca5}
+      \strng{authornamehash}{67bef5b00e22254e3f34cdb08213035e}
+      \strng{authorfullhash}{2fa161da36f7d95828febf8d6d961ca5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{High quality on-chip microwave resonators have recently found prominent new applications in quantum optics and quantum information processing experiments with superconducting electronic circuits, a field now known as circuit quantum electrodynamics ({QED}). They are also used as single photon detectors and parametric amplifiers. Here we analyze the physical properties of coplanar waveguide resonators and their relation to the materials properties for use in circuit {QED}. We have designed and fabricated resonators with fundamental frequencies from 2 to 9 {GHz} and quality factors ranging from a few hundreds to a several hundred thousands controlled by appropriately designed input and output coupling capacitors. The microwave transmission spectra measured at temperatures of 20 {mK} are shown to be in good agreement with theoretical lumped element and distributed element transmission matrix models. In particular, the experimentally determined resonance frequencies, quality factors, and insertion losses are fully and consistently explained by the two models for all measured devices. The high level of control and flexibility in design renders these resonators ideal for storing and manipulating quantum electromagnetic fields in integrated superconducting electronic circuits.}
+      \field{day}{1}
+      \field{issn}{0021-8979, 1089-7550}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{11}
+      \field{title}{Coplanar waveguide resonators for circuit quantum electrodynamics}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{104}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{113904}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.3010859
+      \endverb
+      \verb{file}
+      \verb Göppl et al. - 2008 - Coplanar waveguide resonators for circuit quantum .pdf:C\:\\Users\\jiaop\\Zotero\\storage\\7V45GLEM\\Göppl et al. - 2008 - Coplanar waveguide resonators for circuit quantum .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/jap/article/104/11/113904/145728/Coplanar-waveguide-resonators-for-circuit-quantum
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/jap/article/104/11/113904/145728/Coplanar-waveguide-resonators-for-circuit-quantum
+      \endverb
+    \endentry
+    \entry{Griffiths2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a00328547222c4a2a201442ee59dccfd}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom ; New York, {NY}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{fullhash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{bibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorbibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"{WHAT} {IS} {ELECTRODYNAMICS}, {AND} {HOW} {DOES} {IT} {FIT} {INTO} {THE} {GENERAL} {SCHEME} {OF} {PHYSICS}? Four Realms of Mechanics In the diagram below, I have sketched out the four great realms of mechanics: Classical Mechanics Quantum Mechanics (Newton) (Bohr, Heisenberg, Schrödinger, et al.) Special Relativity Quantum Field Theory (Einstein) (Dirac, Pauli, Feynman, Schwinger, et al.) Newtonian mechanics is adequate for most purposes in "everyday life," but for objects moving at high speeds (near the speed of light) it is incorrect, and must be replaced by special relativity (introduced by Einstein in 1905); for objects that are extremely small (near the size of atoms) it fails for different reasons, and is superseded by quantum mechanics (developed by Bohr, Schrödinger, Heisenberg, and many others, in the 1920's, mostly). For objects that are both very fast and very small (as is common in modern particle physics), a mechanics that combines relativity and quantum principles is in order; this relativistic quantum mechanics is known as quantum field theory--it was worked out in the thirties and forties, but even today it cannot claim to be a completely satisfactory system. In this book, save for the last chapter, we shall work exclusively in the domain of classical mechanics, although electrodynamics extends with unique simplicity to the other three realms. (In fact, the theory is in most respects automatically consistent with special relativity, for which it was, historically, the main stimulus.)"--}
+      \field{edition}{Fourth edition}
+      \field{isbn}{978-1-108-42041-9}
+      \field{title}{Introduction to electrodynamics}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \keyw{Electrodynamics,Textbooks}
+    \endentry
+    \entry{Khalil2012}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a66bd838373a9c4ccd6ad710a00b0387}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc163e7f34d3abb1f4c61777c4ee49fb}{%
+           family={Stoutimore},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi J.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=685c4d0dc08848c21f0cebb1f19d926a}{%
+           family={Wellstood},
+           familyi={W\bibinitperiod},
+           given={F.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f84674c9f7731b4fce6a327f07d1de07}{%
+           family={Osborn},
+           familyi={O\bibinitperiod},
+           given={K.\bibnamedelimi D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff873125a0d2e141a2e8da1b5bb460f4}
+      \strng{fullhash}{869703a2975db36ccd1b9280e21f169d}
+      \strng{bibnamehash}{869703a2975db36ccd1b9280e21f169d}
+      \strng{authorbibnamehash}{869703a2975db36ccd1b9280e21f169d}
+      \strng{authornamehash}{ff873125a0d2e141a2e8da1b5bb460f4}
+      \strng{authorfullhash}{869703a2975db36ccd1b9280e21f169d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We examine the transmission through nonideal microwave resonant circuits. The general analytical resonance line shape is derived for both inductive and capacitive coupling with mismatched input and output transmission impedances, and it is found that, for certain non-ideal conditions, the line shape is asymmetric. We describe an analysis method for extracting an accurate internal quality factor (Qi), the diameter correction method ({DCM}), and compare it to the conventional method used for millikelvin resonator measurements, the φ rotation method (φ{RM}). We analytically find that the φ{RM} deterministically overestimates Qi when the asymmetry of the resonance line shape is high, and that this error is eliminated with the {DCM}. A consistent discrepancy between the two methods is observed when they are used to analyze both simulations from a numerical linear solver and data from asymmetric coplanar superconducting thin-film resonators.}
+      \field{day}{1}
+      \field{issn}{0021-8979, 1089-7550}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{5}
+      \field{title}{An analysis method for asymmetric resonator transmission applied to superconducting devices}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{111}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{054510}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.3692073
+      \endverb
+      \verb{file}
+      \verb Khalil et al. - 2012 - An analysis method for asymmetric resonator transm.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\XVGUGUJ2\\Khalil et al. - 2012 - An analysis method for asymmetric resonator transm.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/jap/article/111/5/054510/345793/An-analysis-method-for-asymmetric-resonator
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/jap/article/111/5/054510/345793/An-analysis-method-for-asymmetric-resonator
+      \endverb
+    \endentry
+    \entry{Krantz2019}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=83acc8ae57fc4a7cde43eba8f0c073bb}{%
+           family={Krantz},
+           familyi={K\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a4dcb65f7f62d984540ff315781ea57}{%
+           family={Kjaergaard},
+           familyi={K\bibinitperiod},
+           given={Morten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baa638f6b17bc5c1b7566e35bd08fae4}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc1f1c0d0c86459353a756744a94074f}{%
+           family={Orlando},
+           familyi={O\bibinitperiod},
+           given={Terry\bibnamedelima P.},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dc496bfe7bb780dacac78a79c352060}{%
+           family={Gustavsson},
+           familyi={G\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e0fdfb97a5d24e12cfe5768c4fcf567}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={William\bibnamedelima D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{790f7d0b994b42aa99b61d174ebb4a9d}
+      \strng{fullhash}{d4561afb5e7cd5241b5d2822dfb7258a}
+      \strng{bibnamehash}{d4561afb5e7cd5241b5d2822dfb7258a}
+      \strng{authorbibnamehash}{d4561afb5e7cd5241b5d2822dfb7258a}
+      \strng{authornamehash}{790f7d0b994b42aa99b61d174ebb4a9d}
+      \strng{authorfullhash}{d4561afb5e7cd5241b5d2822dfb7258a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of this review is to provide quantum engineers with an introductory guide to the central concepts and challenges in the rapidly accelerating field of superconducting quantum circuits. Over the past twenty years, the field has matured from a predominantly basic research endeavor to one that increasingly explores the engineering of larger-scale superconducting quantum systems. Here, we review several foundational elements -- qubit design, noise properties, qubit control, and readout techniques -- developed during this period, bridging fundamental concepts in circuit quantum electrodynamics ({cQED}) and contemporary, state-of-the-art applications in gate-model quantum computation.}
+      \field{eprinttype}{arxiv}
+      \field{issn}{1931-9401}
+      \field{journaltitle}{Applied Physics Reviews}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shortjournal}{Applied Physics Reviews}
+      \field{title}{A Quantum Engineer's Guide to Superconducting Qubits}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{021318}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.5089550
+      \endverb
+      \verb{eprint}
+      \verb 1904.06560 [cond-mat, physics:physics, physics:quant-ph]
+      \endverb
+      \verb{file}
+      \verb Krantz et al. - 2019 - A Quantum Engineer's Guide to Superconducting Qubi.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\TW7MFJNT\\Krantz et al. - 2019 - A Quantum Engineer's Guide to Superconducting Qubi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1904.06560
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1904.06560
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics,Physics - Applied Physics,Quantum Physics,Fluxonium}
+    \endentry
+    \entry{Manucharyan2009}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ebdc89c6308aca5d7c7d8de457761d9b}{%
+           family={Manucharyan},
+           familyi={M\bibinitperiod},
+           given={Vladimir\bibnamedelima E.},
+           giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cfcd1c2a3fa4e4001bd362f97541505}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88286c3c1805250192c2e1026731d9b7}{%
+           family={Glazman},
+           familyi={G\bibinitperiod},
+           given={Leonid},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb1f559b5110c0a567862e8400f55166}{%
+           family={Devoret},
+           familyi={D\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{187c6ac849c9d5be23eb7364c8ffde62}
+      \strng{fullhash}{4ee492fa8ae725478233d530620ae916}
+      \strng{bibnamehash}{4ee492fa8ae725478233d530620ae916}
+      \strng{authorbibnamehash}{4ee492fa8ae725478233d530620ae916}
+      \strng{authornamehash}{187c6ac849c9d5be23eb7364c8ffde62}
+      \strng{authorfullhash}{4ee492fa8ae725478233d530620ae916}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The promise of single Cooper pair quantum circuits based on tunnel junctions for metrology and quantum information applications is severely limited by the influence of "offset" charges - random, slowly drifting microscopic charges inherent to many solid-state systems. By shunting a small junction with the Josephson kinetic inductance of a series array of large capacitance tunnel junctions, thereby ensuring that all superconducting islands are connected to the circuit by at least one large junction, we have realized a new superconducting artificial atom which is totally insensitive to offset charges. Yet, its energy levels manifest the anharmonic structure associated with single Cooper pair effects, a useful component for solid state quantum computation.}
+      \field{day}{2}
+      \field{eprinttype}{arxiv}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5949}
+      \field{shortjournal}{Science}
+      \field{shorttitle}{Fluxonium}
+      \field{title}{Fluxonium: single Cooper pair circuit free of charge offsets}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{326}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{113\bibrangedash 116}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1175552
+      \endverb
+      \verb{eprint}
+      \verb 0906.0831 [cond-mat]
+      \endverb
+      \verb{file}
+      \verb Manucharyan et al. - 2009 - Fluxonium single Cooper pair circuit free of char.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\JJTQMAQW\\Manucharyan et al. - 2009 - Fluxonium single Cooper pair circuit free of char.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/0906.0831
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/0906.0831
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics,Condensed Matter - Superconductivity,Fluxonium,Experimental}
+    \endentry
+    \entry{Nguyen2022}{article}{}
+      \name{author}{15}{}{%
+        {{un=0,uniquepart=base,hash=0f40be6d60f468bd5c1ab3e81436f9b2}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Long\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dad1c04044a7ac0618eb43cfea62edf6}{%
+           family={Koolstra},
+           familyi={K\bibinitperiod},
+           given={Gerwin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4100c53535325ab98e26e898e20d755e}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yosep},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15460875fe392ae15c5374e239b7c3b2}{%
+           family={Morvan},
+           familyi={M\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02f913f122af32273be7649085228284}{%
+           family={Chistolini},
+           familyi={C\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=881aefdc6d5ecf619734a79ec7c98a36}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Shraddha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0755addaa9f10371b1161a5e812c4fb3}{%
+           family={Nesterov},
+           familyi={N\bibinitperiod},
+           given={Konstantin\bibnamedelima N.},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=536c902da80764705348be1e97883fa0}{%
+           family={Jünger},
+           familyi={J\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3494e201954c3d9b35bf1c655beeb9e8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ae170ef481b87147ed150b7bd82d130}{%
+           family={Pedramrazi},
+           familyi={P\bibinitperiod},
+           given={Zahra},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be1e694cecf33776211a6054c0cc432d}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Bradley\bibnamedelima K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4562b171a8fc29f7b38eda996879e73b}{%
+           family={Kreikebaum},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima Mark},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e87353998bc5444ec07ed2b21d2e233}{%
+           family={Puri},
+           familyi={P\bibinitperiod},
+           given={Shruti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2828a491e3a5ec17890f8c4d46fab4aa}{%
+           family={Santiago},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima I.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87601df04adf30927e0cfebed72f1fc8}{%
+           family={Siddiqi},
+           familyi={S\bibinitperiod},
+           given={Irfan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{995c85e7831e2b40013a1d005e0a38da}
+      \strng{fullhash}{89e3ce47c9f2e81a69a64c6ccb5cb762}
+      \strng{bibnamehash}{89e3ce47c9f2e81a69a64c6ccb5cb762}
+      \strng{authorbibnamehash}{89e3ce47c9f2e81a69a64c6ccb5cb762}
+      \strng{authornamehash}{995c85e7831e2b40013a1d005e0a38da}
+      \strng{authorfullhash}{89e3ce47c9f2e81a69a64c6ccb5cb762}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{issn}{2691-3399}
+      \field{journaltitle}{{PRX} Quantum}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{3}
+      \field{shortjournal}{{PRX} Quantum}
+      \field{title}{Blueprint for a High-Performance Fluxonium Quantum Processor}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{3}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{037001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PRXQuantum.3.037001
+      \endverb
+      \verb{file}
+      \verb Nguyen et al. - 2022 - Blueprint for a High-Performance Fluxonium Quantum.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\E7G2XGC5\\Nguyen et al. - 2022 - Blueprint for a High-Performance Fluxonium Quantum.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PRXQuantum.3.037001
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PRXQuantum.3.037001
+      \endverb
+      \keyw{Fluxonium,Theoretical}
+    \endentry
+    \entry{Pozar2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d24f273bc6b8cfcfddb47e3a592f97de}{%
+           family={Pozar},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, {NJ}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{fullhash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{bibnamehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{authorbibnamehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{authornamehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{authorfullhash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th ed}
+      \field{isbn}{978-0-470-63155-3}
+      \field{note}{{OCLC}: ocn714728044}
+      \field{pagetotal}{732}
+      \field{title}{Microwave engineering}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Pozar_Microwave Engineering(2012).pdf:C\:\\Users\\jiaop\\Zotero\\storage\\BLYB6F48\\Pozar_Microwave Engineering(2012).pdf:application/pdf
+      \endverb
+      \keyw{Microwave circuits,Microwave devices,Microwaves}
+    \endentry
+    \entry{Schuster2007}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a8abe3165134d1d44c3b345298fa5a4}{%
+           family={Schuster},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima Isaac},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{fullhash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{bibnamehash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{authorbibnamehash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{authornamehash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{authorfullhash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Circuit Quantum Electrodynamics}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Schuster - Circuit Quantum Electrodynamics.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\SDP444WX\\Schuster - Circuit Quantum Electrodynamics.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Zmuidzinas2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e952cdd64c504471db03b03b1f1dc01a}{%
+           family={Zmuidzinas},
+           familyi={Z\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{fullhash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{bibnamehash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{authorbibnamehash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{authornamehash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{authorfullhash}{e952cdd64c504471db03b03b1f1dc01a}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Interest in superconducting microresonators has grown dramatically over the past decade. Resonator performance has improved substantially through the use of improved geometries and materials as well as a better understanding of the underlying physics. These advances have led to the adoption of superconducting microresonators in a large number of low-temperature experiments and applications. This review outlines these developments, with particular attention given to the use of superconducting microresonators as detectors.}
+      \field{day}{1}
+      \field{issn}{1947-5454, 1947-5462}
+      \field{journaltitle}{Annual Review of Condensed Matter Physics}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Annu. Rev. Condens. Matter Phys.}
+      \field{shorttitle}{Superconducting Microresonators}
+      \field{title}{Superconducting Microresonators: Physics and Applications}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{169\bibrangedash 214}
+      \range{pages}{46}
+      \verb{doi}
+      \verb 10.1146/annurev-conmatphys-020911-125022
+      \endverb
+      \verb{file}
+      \verb Zmuidzinas - 2012 - Superconducting Microresonators Physics and Appli.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\ES6TCPFV\\Zmuidzinas - 2012 - Superconducting Microresonators Physics and Appli.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.annualreviews.org/doi/10.1146/annurev-conmatphys-020911-125022
+      \endverb
+      \verb{url}
+      \verb https://www.annualreviews.org/doi/10.1146/annurev-conmatphys-020911-125022
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyvt/global//global/global}
+    \entry{Annett2004}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=440c55e793bc33b75baee0a88533b369}{%
+           family={Annett},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford ; New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{440c55e793bc33b75baee0a88533b369}
+      \strng{fullhash}{440c55e793bc33b75baee0a88533b369}
+      \strng{bibnamehash}{440c55e793bc33b75baee0a88533b369}
+      \strng{authorbibnamehash}{440c55e793bc33b75baee0a88533b369}
+      \strng{authornamehash}{440c55e793bc33b75baee0a88533b369}
+      \strng{authorfullhash}{440c55e793bc33b75baee0a88533b369}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-19-850756-7}
+      \field{langid}{english}
+      \field{pagetotal}{186}
+      \field{series}{Oxford master series in condensed matter physics}
+      \field{title}{Superconductivity, superfluids, and condensates}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Annett - 2004 - Superconductivity, superfluids, and condensates.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\867CXGPF\\Annett - 2004 - Superconductivity, superfluids, and condensates.pdf:application/pdf
+      \endverb
+      \keyw{Bose-Einstein condensation,Superconductivity,Superfluidity}
+    \endentry
+    \entry{Aumann2022}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5b4f8c17989edf22157df162c714e1b8}{%
+           family={Aumann},
+           familyi={A\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c555b38206c5fb0ccec33164f55a8ff}{%
+           family={Menke},
+           familyi={M\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e0fdfb97a5d24e12cfe5768c4fcf567}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={William\bibnamedelima D},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3128b19558041a57d2cb68448ccc035f}{%
+           family={Lechner},
+           familyi={L\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d8121a31e810bf7b65e23861bff5f6f8}
+      \strng{fullhash}{a59d21e525f219eeb5d1301f9eb550da}
+      \strng{bibnamehash}{a59d21e525f219eeb5d1301f9eb550da}
+      \strng{authorbibnamehash}{a59d21e525f219eeb5d1301f9eb550da}
+      \strng{authornamehash}{d8121a31e810bf7b65e23861bff5f6f8}
+      \strng{authorfullhash}{a59d21e525f219eeb5d1301f9eb550da}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We introduce {CircuitQ}, an open-source toolbox for the analysis of superconducting circuits implemented in Python. It features the automated construction of a symbolic Hamiltonian of the input circuit and a dynamic numerical representation of the Hamiltonian with a variable basis choice. The software implementation is capable of choosing the basis in a fully automated fashion based on the potential energy landscape. Additional features include the estimation of the T1 lifetimes of the circuit states under various noise mechanisms. We review previously established circuit quantization methods and formulate them in a way that facilitates the software implementation. The toolbox is then showcased by applying it to practically relevant qubit circuits and comparing it to specialized circuit solvers. Our circuit quantization is applicable to circuit inputs from a large design space, and the software is open-sourced. We thereby add an important resource for the design of new quantum circuits for quantum information processing applications.}
+      \field{day}{1}
+      \field{issn}{1367-2630}
+      \field{journaltitle}{New Journal of Physics}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{New J. Phys.}
+      \field{shorttitle}{{CircuitQ}}
+      \field{title}{{CircuitQ}: an open-source toolbox for superconducting circuits}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{24}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{093012}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1367-2630/ac8cab
+      \endverb
+      \verb{file}
+      \verb Aumann et al. - 2022 - CircuitQ an open-source toolbox for superconducti.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\GVHYV9RD\\Aumann et al. - 2022 - CircuitQ an open-source toolbox for superconducti.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1088/1367-2630/ac8cab
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1088/1367-2630/ac8cab
+      \endverb
+    \endentry
+    \entry{Bruno2015}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=dd5475d3af69323b75b9037b2ef7c138}{%
+           family={Bruno},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95ba3a07f057a17f983ac7e4f95a35a2}{%
+           family={De\bibnamedelima Lange},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af36d4b6df13cfee601f320e24fc0636}{%
+           family={Asaad},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33d52a971a39fefe0e5d2ec529e29d74}{%
+           family={Van\bibnamedelimb Der\bibnamedelima Enden},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={K.\bibnamedelimi L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff2b6fae84b19d0d94a4f0bfe7a9709a}{%
+           family={Langford},
+           familyi={L\bibinitperiod},
+           given={N.\bibnamedelimi K.},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c833f31f50c58de50633781406def803}{%
+           family={{DiCarlo}},
+           familyi={D\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9f722a4597a654aa17bb1b517a55de2}
+      \strng{fullhash}{8991de1398af4139ba0412846c0d333c}
+      \strng{bibnamehash}{8991de1398af4139ba0412846c0d333c}
+      \strng{authorbibnamehash}{8991de1398af4139ba0412846c0d333c}
+      \strng{authornamehash}{b9f722a4597a654aa17bb1b517a55de2}
+      \strng{authorfullhash}{8991de1398af4139ba0412846c0d333c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present microwave-frequency {NbTiN} resonators on silicon, systematically achieving internal quality factors above 1 M in the quantum regime. We use two techniques to reduce losses associated with two-level systems: an additional substrate surface treatment prior to {NbTiN} deposition to optimize the metal-substrate interface and deep reactive-ion etching of the substrate to displace the substrate-vacuum interfaces away from high electric fields. The temperature and power dependence of resonator behavior indicate that two-level systems still contribute significantly to energy dissipation, suggesting that more interface optimization could further improve performance.}
+      \field{day}{4}
+      \field{issn}{0003-6951, 1077-3118}
+      \field{journaltitle}{Applied Physics Letters}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{18}
+      \field{title}{Reducing intrinsic loss in superconducting resonators by surface treatment and deep etching of silicon substrates}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{106}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{182601}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.4919761
+      \endverb
+      \verb{file}
+      \verb Bruno et al. - 2015 - Reducing intrinsic loss in superconducting resonat.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\4RB7AI6L\\Bruno et al. - 2015 - Reducing intrinsic loss in superconducting resonat.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/apl/article/106/18/182601/27784/Reducing-intrinsic-loss-in-superconducting
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/apl/article/106/18/182601/27784/Reducing-intrinsic-loss-in-superconducting
+      \endverb
+    \endentry
+    \entry{Crowley2023b}{misc}{}
+      \name{author}{20}{}{%
+        {{un=0,uniquepart=base,hash=1902ab5f9889758d36f2647d6cf31d05}{%
+           family={Crowley},
+           familyi={C\bibinitperiod},
+           given={Kevin\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5c5452df9955409bec5c38e11f2c5b1}{%
+           family={{McLellan}},
+           familyi={M\bibinitperiod},
+           given={Russell\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ca48ce93601199f33f95c435bd991d5}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Aveek},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4742c3088e5fb62b2991799c9369901b}{%
+           family={Shumiya},
+           familyi={S\bibinitperiod},
+           given={Nana},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf5f47f3abeade92eeb6843e80d58010}{%
+           family={Place},
+           familyi={P\bibinitperiod},
+           given={Alexander\bibnamedelimb P.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22957652042ec8a8ed67f1f9d86758b4}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Xuan\bibnamedelima Hoang},
+           giveni={X\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec2c26f117e7da3b2dc6fac9488a3acc}{%
+           family={Gang},
+           familyi={G\bibinitperiod},
+           given={Youqi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c4c35b3f5fbb18353e30576b2ca2cda}{%
+           family={Madhavan},
+           familyi={M\bibinitperiod},
+           given={Trisha},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd163cbaa1138e4cfc68b2a743d6fca9}{%
+           family={Khedkar},
+           familyi={K\bibinitperiod},
+           given={Nishaad},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d04084c80fd1d49305cbc5697527b599}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yiming\bibnamedelima Cady},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5af9cdbd224e76cbbd146b569e037828}{%
+           family={Umbarkar},
+           familyi={U\bibinitperiod},
+           given={Esha\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e3e34382a0a3d0f23b2c37d687cf554}{%
+           family={Gui},
+           familyi={G\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4c948b008316b14bba1746cd87c8143}{%
+           family={Rodgers},
+           familyi={R\bibinitperiod},
+           given={Lila\bibnamedelimb V.\bibnamedelimi H.},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8b4a21e8e054de095549cc78450321b}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Yichen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=292c38d29bef8e729a567e6eadbbd98e}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={Mayer\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9d205e4f2c901362209eef8fec9463b}{%
+           family={Lyon},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6ec921cf0a2e7e997fcb346ffaf0352}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mingzhao},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aa51eac74cebd59d017ff70f3505db2}{%
+           family={Cava},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79c05e1dd346a7cc8e1c7396c20377aa}{%
+           family={Houck},
+           familyi={H\bibinitperiod},
+           given={Andrew\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f2c4b39158859afc57df279b53f7acc}{%
+           family={Leon},
+           familyi={L\bibinitperiod},
+           given={Nathalie\bibnamedelima P.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{1a7d053aff9b2516747dd99d084899ba}
+      \strng{fullhash}{325563e0a869ff0c22d80501606f3afa}
+      \strng{bibnamehash}{325563e0a869ff0c22d80501606f3afa}
+      \strng{authorbibnamehash}{325563e0a869ff0c22d80501606f3afa}
+      \strng{authornamehash}{1a7d053aff9b2516747dd99d084899ba}
+      \strng{authorfullhash}{325563e0a869ff0c22d80501606f3afa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Superconducting qubits are a leading system for realizing large scale quantum processors, but overall gate fidelities suffer from coherence times limited by microwave dielectric loss. Recently discovered tantalum-based qubits exhibit record lifetimes exceeding 0.3 ms. Here we perform systematic, detailed measurements of superconducting tantalum resonators in order to disentangle sources of loss that limit state-of-the-art tantalum devices. By studying the dependence of loss on temperature, microwave photon number, and device geometry, we quantify materials-related losses and observe that the losses are dominated by several types of saturable two level systems ({TLSs}), with evidence that both surface and bulk related {TLSs} contribute to loss. Moreover, we show that surface {TLSs} can be altered with chemical processing. With four different surface conditions, we quantitatively extract the linear absorption associated with different surface {TLS} sources. Finally, we quantify the impact of the chemical processing at single photon powers, the relevant conditions for qubit device performance. In this regime we measure resonators with internal quality factors ranging from 5 to 15 x 10{\textasciicircum}6, comparable to the best qubits reported. In these devices the surface and bulk {TLS} contributions to loss are comparable, showing that systematic improvements in materials on both fronts will be necessary to improve qubit coherence further.}
+      \field{day}{18}
+      \field{eprinttype}{arxiv}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{{arXiv}:2301.07848}
+      \field{title}{Disentangling Losses in Tantalum Superconducting Circuits}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{eprint}
+      \verb 2301.07848 [cond-mat, physics:quant-ph]
+      \endverb
+      \verb{file}
+      \verb Crowley et al. - 2023 - Disentangling Losses in Tantalum Superconducting C.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\ZSF4I9RY\\Crowley et al. - 2023 - Disentangling Losses in Tantalum Superconducting C.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2301.07848
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2301.07848
+      \endverb
+      \keyw{Quantum Physics,Condensed Matter - Materials Science}
+    \endentry
+    \entry{DiVincenzo2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=eb086f2913454eb2d88cdec4631aeb3e}{%
+           family={{DiVincenzo}},
+           familyi={D\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{fullhash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{bibnamehash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{authorbibnamehash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{authornamehash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \strng{authorfullhash}{7cdefa27b62ac6fa7c6e0d01dd170352}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{After a brief introduction to the principles and promise of quantum information processing, the requirements for the physical implementation of quantum computation are discussed. These five requirements, plus two relating to the communication of quantum information, are extensively explored and related to the many schemes in atomic physics, quantum optics, nuclear and electron magnetic resonance spectroscopy, superconducting electronics, and quantum-dot physics, for achieving quantum computing.}
+      \field{eprinttype}{arxiv}
+      \field{issn}{00158208, 15213978}
+      \field{journaltitle}{Fortschritte der Physik}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{Fortschr. Phys.}
+      \field{title}{The Physical Implementation of Quantum Computation}
+      \field{urlday}{4}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{48}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{771\bibrangedash 783}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1002/1521-3978(200009)48:9/11<771::AID-PROP771>3.0.CO;2-E
+      \endverb
+      \verb{eprint}
+      \verb quant-ph/0002077
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\jiaop\\Zotero\\storage\\MVFQS68Z\\DiVincenzo and IBM - 2000 - The Physical Implementation of Quantum Computation.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\jiaop\\Zotero\\storage\\BN3K4HHB\\0002077.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/quant-ph/0002077
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/quant-ph/0002077
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics,Quantum Physics}
+    \endentry
+    \entry{Girvin2014}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2fe7ce38663715919c6b1b7ff878347f}{%
+           family={Girvin},
+           familyi={G\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=bb1f559b5110c0a567862e8400f55166}{%
+           family={Devoret},
+           familyi={D\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=569661773dddc76112d6f65ff92cac8a}{%
+           family={Huard},
+           familyi={H\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=69cd23d0964199d7224d159979cd1e25}{%
+           family={Schoelkopf},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3edd8133ba01b5b35dd4e7e439641e8a}{%
+           family={Cugliandolo},
+           familyi={C\bibinitperiod},
+           given={Leticia\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University {PressOxford}}%
+      }
+      \strng{namehash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{fullhash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{bibnamehash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{authorbibnamehash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{authornamehash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{authorfullhash}{2fe7ce38663715919c6b1b7ff878347f}
+      \strng{editorbibnamehash}{63de2b3c7f55131b1aa03d244bd02236}
+      \strng{editornamehash}{4dc8776bb094fc0cabfde5aad457887b}
+      \strng{editorfullhash}{63de2b3c7f55131b1aa03d244bd02236}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract This chapter introduces the basic concepts of quantum information processing with superconducting quantum circuits. It starts with a demonstration of how,in these electrodynamic systems, both the superconducting gap and the long-range Coulomb interactions contribute to the existence of collective modesthat have extremely low dissipationand that can be quantized. The chapter also gives in-depth coverage of quantum harmonic oscillators in all their glory from various perspectives. Superconducting qubits are then introduced, starting with the fundamental theory of the Josephson effect and moving on to a presentation of the variety of existing superconducting qubits. Particular attention is given to the dispersive readout of qubits through their interaction with a cavity into which flying modes can be scattered. Finally, the opportunities offered for quantum information processing by employing the cavity as a quantum bus are presented.}
+      \field{booktitle}{Quantum Machines: Measurement and Control of Engineered Quantum Systems}
+      \field{day}{12}
+      \field{edition}{1}
+      \field{isbn}{978-0-19-968118-1}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shorttitle}{Circuit {QED}}
+      \field{title}{Circuit {QED}: superconducting qubits coupled to microwave photons}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{113\bibrangedash 256}
+      \range{pages}{144}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780199681181.003.0003
+      \endverb
+      \verb{file}
+      \verb Girvin - 2014 - Circuit QED superconducting qubits coupled to mic.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\7AK2RWN7\\Girvin - 2014 - Circuit QED superconducting qubits coupled to mic.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/book/43704/chapter/367194888
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/book/43704/chapter/367194888
+      \endverb
+    \endentry
+    \entry{Goppl2008}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=8e53972b5ef8a9182839299e0c9bd01c}{%
+           family={Göppl},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef0c1729c60951226cb3e3acf94e737d}{%
+           family={Fragner},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d06dca373ac06d22ea0c49f28b22fac2}{%
+           family={Baur},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cc91570113baf5d24a6e3201e918367}{%
+           family={Bianchetti},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7f3a78704fe60c4102bee68acb7ce72}{%
+           family={Filipp},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dc3226cd4b486147cf429d98ba69344}{%
+           family={Fink},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=762335f211fd3d49429e63e4abcb0ed5}{%
+           family={Leek},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b63a156aa6a570356d931589e022dcbe}{%
+           family={Puebla},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=270cc5c94f30ed61a50c7afc8161c13c}{%
+           family={Steffen},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d18539c4a1208fd536ec9f5755b3ce32}{%
+           family={Wallraff},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67bef5b00e22254e3f34cdb08213035e}
+      \strng{fullhash}{2fa161da36f7d95828febf8d6d961ca5}
+      \strng{bibnamehash}{2fa161da36f7d95828febf8d6d961ca5}
+      \strng{authorbibnamehash}{2fa161da36f7d95828febf8d6d961ca5}
+      \strng{authornamehash}{67bef5b00e22254e3f34cdb08213035e}
+      \strng{authorfullhash}{2fa161da36f7d95828febf8d6d961ca5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{High quality on-chip microwave resonators have recently found prominent new applications in quantum optics and quantum information processing experiments with superconducting electronic circuits, a field now known as circuit quantum electrodynamics ({QED}). They are also used as single photon detectors and parametric amplifiers. Here we analyze the physical properties of coplanar waveguide resonators and their relation to the materials properties for use in circuit {QED}. We have designed and fabricated resonators with fundamental frequencies from 2 to 9 {GHz} and quality factors ranging from a few hundreds to a several hundred thousands controlled by appropriately designed input and output coupling capacitors. The microwave transmission spectra measured at temperatures of 20 {mK} are shown to be in good agreement with theoretical lumped element and distributed element transmission matrix models. In particular, the experimentally determined resonance frequencies, quality factors, and insertion losses are fully and consistently explained by the two models for all measured devices. The high level of control and flexibility in design renders these resonators ideal for storing and manipulating quantum electromagnetic fields in integrated superconducting electronic circuits.}
+      \field{day}{1}
+      \field{issn}{0021-8979, 1089-7550}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{11}
+      \field{title}{Coplanar waveguide resonators for circuit quantum electrodynamics}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{104}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{113904}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.3010859
+      \endverb
+      \verb{file}
+      \verb Göppl et al. - 2008 - Coplanar waveguide resonators for circuit quantum .pdf:C\:\\Users\\jiaop\\Zotero\\storage\\7V45GLEM\\Göppl et al. - 2008 - Coplanar waveguide resonators for circuit quantum .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/jap/article/104/11/113904/145728/Coplanar-waveguide-resonators-for-circuit-quantum
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/jap/article/104/11/113904/145728/Coplanar-waveguide-resonators-for-circuit-quantum
+      \endverb
+    \endentry
+    \entry{Griffiths2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a00328547222c4a2a201442ee59dccfd}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom ; New York, {NY}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{fullhash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{bibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorbibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"{WHAT} {IS} {ELECTRODYNAMICS}, {AND} {HOW} {DOES} {IT} {FIT} {INTO} {THE} {GENERAL} {SCHEME} {OF} {PHYSICS}? Four Realms of Mechanics In the diagram below, I have sketched out the four great realms of mechanics: Classical Mechanics Quantum Mechanics (Newton) (Bohr, Heisenberg, Schrödinger, et al.) Special Relativity Quantum Field Theory (Einstein) (Dirac, Pauli, Feynman, Schwinger, et al.) Newtonian mechanics is adequate for most purposes in "everyday life," but for objects moving at high speeds (near the speed of light) it is incorrect, and must be replaced by special relativity (introduced by Einstein in 1905); for objects that are extremely small (near the size of atoms) it fails for different reasons, and is superseded by quantum mechanics (developed by Bohr, Schrödinger, Heisenberg, and many others, in the 1920's, mostly). For objects that are both very fast and very small (as is common in modern particle physics), a mechanics that combines relativity and quantum principles is in order; this relativistic quantum mechanics is known as quantum field theory--it was worked out in the thirties and forties, but even today it cannot claim to be a completely satisfactory system. In this book, save for the last chapter, we shall work exclusively in the domain of classical mechanics, although electrodynamics extends with unique simplicity to the other three realms. (In fact, the theory is in most respects automatically consistent with special relativity, for which it was, historically, the main stimulus.)"--}
+      \field{edition}{Fourth edition}
+      \field{isbn}{978-1-108-42041-9}
+      \field{title}{Introduction to electrodynamics}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \keyw{Electrodynamics,Textbooks}
+    \endentry
+    \entry{Khalil2012}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a66bd838373a9c4ccd6ad710a00b0387}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc163e7f34d3abb1f4c61777c4ee49fb}{%
+           family={Stoutimore},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi J.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=685c4d0dc08848c21f0cebb1f19d926a}{%
+           family={Wellstood},
+           familyi={W\bibinitperiod},
+           given={F.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f84674c9f7731b4fce6a327f07d1de07}{%
+           family={Osborn},
+           familyi={O\bibinitperiod},
+           given={K.\bibnamedelimi D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff873125a0d2e141a2e8da1b5bb460f4}
+      \strng{fullhash}{869703a2975db36ccd1b9280e21f169d}
+      \strng{bibnamehash}{869703a2975db36ccd1b9280e21f169d}
+      \strng{authorbibnamehash}{869703a2975db36ccd1b9280e21f169d}
+      \strng{authornamehash}{ff873125a0d2e141a2e8da1b5bb460f4}
+      \strng{authorfullhash}{869703a2975db36ccd1b9280e21f169d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We examine the transmission through nonideal microwave resonant circuits. The general analytical resonance line shape is derived for both inductive and capacitive coupling with mismatched input and output transmission impedances, and it is found that, for certain non-ideal conditions, the line shape is asymmetric. We describe an analysis method for extracting an accurate internal quality factor (Qi), the diameter correction method ({DCM}), and compare it to the conventional method used for millikelvin resonator measurements, the φ rotation method (φ{RM}). We analytically find that the φ{RM} deterministically overestimates Qi when the asymmetry of the resonance line shape is high, and that this error is eliminated with the {DCM}. A consistent discrepancy between the two methods is observed when they are used to analyze both simulations from a numerical linear solver and data from asymmetric coplanar superconducting thin-film resonators.}
+      \field{day}{1}
+      \field{issn}{0021-8979, 1089-7550}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{5}
+      \field{title}{An analysis method for asymmetric resonator transmission applied to superconducting devices}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{111}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{054510}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.3692073
+      \endverb
+      \verb{file}
+      \verb Khalil et al. - 2012 - An analysis method for asymmetric resonator transm.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\XVGUGUJ2\\Khalil et al. - 2012 - An analysis method for asymmetric resonator transm.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/jap/article/111/5/054510/345793/An-analysis-method-for-asymmetric-resonator
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/jap/article/111/5/054510/345793/An-analysis-method-for-asymmetric-resonator
+      \endverb
+    \endentry
+    \entry{Krantz2019}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=83acc8ae57fc4a7cde43eba8f0c073bb}{%
+           family={Krantz},
+           familyi={K\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a4dcb65f7f62d984540ff315781ea57}{%
+           family={Kjaergaard},
+           familyi={K\bibinitperiod},
+           given={Morten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baa638f6b17bc5c1b7566e35bd08fae4}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc1f1c0d0c86459353a756744a94074f}{%
+           family={Orlando},
+           familyi={O\bibinitperiod},
+           given={Terry\bibnamedelima P.},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dc496bfe7bb780dacac78a79c352060}{%
+           family={Gustavsson},
+           familyi={G\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e0fdfb97a5d24e12cfe5768c4fcf567}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={William\bibnamedelima D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{790f7d0b994b42aa99b61d174ebb4a9d}
+      \strng{fullhash}{d4561afb5e7cd5241b5d2822dfb7258a}
+      \strng{bibnamehash}{d4561afb5e7cd5241b5d2822dfb7258a}
+      \strng{authorbibnamehash}{d4561afb5e7cd5241b5d2822dfb7258a}
+      \strng{authornamehash}{790f7d0b994b42aa99b61d174ebb4a9d}
+      \strng{authorfullhash}{d4561afb5e7cd5241b5d2822dfb7258a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of this review is to provide quantum engineers with an introductory guide to the central concepts and challenges in the rapidly accelerating field of superconducting quantum circuits. Over the past twenty years, the field has matured from a predominantly basic research endeavor to one that increasingly explores the engineering of larger-scale superconducting quantum systems. Here, we review several foundational elements -- qubit design, noise properties, qubit control, and readout techniques -- developed during this period, bridging fundamental concepts in circuit quantum electrodynamics ({cQED}) and contemporary, state-of-the-art applications in gate-model quantum computation.}
+      \field{eprinttype}{arxiv}
+      \field{issn}{1931-9401}
+      \field{journaltitle}{Applied Physics Reviews}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shortjournal}{Applied Physics Reviews}
+      \field{title}{A Quantum Engineer's Guide to Superconducting Qubits}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{021318}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.5089550
+      \endverb
+      \verb{eprint}
+      \verb 1904.06560 [cond-mat, physics:physics, physics:quant-ph]
+      \endverb
+      \verb{file}
+      \verb Krantz et al. - 2019 - A Quantum Engineer's Guide to Superconducting Qubi.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\TW7MFJNT\\Krantz et al. - 2019 - A Quantum Engineer's Guide to Superconducting Qubi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1904.06560
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1904.06560
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics,Physics - Applied Physics,Quantum Physics,Fluxonium}
+    \endentry
+    \entry{Manucharyan2009}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ebdc89c6308aca5d7c7d8de457761d9b}{%
+           family={Manucharyan},
+           familyi={M\bibinitperiod},
+           given={Vladimir\bibnamedelima E.},
+           giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cfcd1c2a3fa4e4001bd362f97541505}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88286c3c1805250192c2e1026731d9b7}{%
+           family={Glazman},
+           familyi={G\bibinitperiod},
+           given={Leonid},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb1f559b5110c0a567862e8400f55166}{%
+           family={Devoret},
+           familyi={D\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{187c6ac849c9d5be23eb7364c8ffde62}
+      \strng{fullhash}{4ee492fa8ae725478233d530620ae916}
+      \strng{bibnamehash}{4ee492fa8ae725478233d530620ae916}
+      \strng{authorbibnamehash}{4ee492fa8ae725478233d530620ae916}
+      \strng{authornamehash}{187c6ac849c9d5be23eb7364c8ffde62}
+      \strng{authorfullhash}{4ee492fa8ae725478233d530620ae916}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The promise of single Cooper pair quantum circuits based on tunnel junctions for metrology and quantum information applications is severely limited by the influence of "offset" charges - random, slowly drifting microscopic charges inherent to many solid-state systems. By shunting a small junction with the Josephson kinetic inductance of a series array of large capacitance tunnel junctions, thereby ensuring that all superconducting islands are connected to the circuit by at least one large junction, we have realized a new superconducting artificial atom which is totally insensitive to offset charges. Yet, its energy levels manifest the anharmonic structure associated with single Cooper pair effects, a useful component for solid state quantum computation.}
+      \field{day}{2}
+      \field{eprinttype}{arxiv}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5949}
+      \field{shortjournal}{Science}
+      \field{shorttitle}{Fluxonium}
+      \field{title}{Fluxonium: single Cooper pair circuit free of charge offsets}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{326}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{113\bibrangedash 116}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1175552
+      \endverb
+      \verb{eprint}
+      \verb 0906.0831 [cond-mat]
+      \endverb
+      \verb{file}
+      \verb Manucharyan et al. - 2009 - Fluxonium single Cooper pair circuit free of char.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\JJTQMAQW\\Manucharyan et al. - 2009 - Fluxonium single Cooper pair circuit free of char.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/0906.0831
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/0906.0831
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics,Condensed Matter - Superconductivity,Fluxonium,Experimental}
+    \endentry
+    \entry{Nguyen2022}{article}{}
+      \name{author}{15}{}{%
+        {{un=0,uniquepart=base,hash=0f40be6d60f468bd5c1ab3e81436f9b2}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Long\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dad1c04044a7ac0618eb43cfea62edf6}{%
+           family={Koolstra},
+           familyi={K\bibinitperiod},
+           given={Gerwin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4100c53535325ab98e26e898e20d755e}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yosep},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15460875fe392ae15c5374e239b7c3b2}{%
+           family={Morvan},
+           familyi={M\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02f913f122af32273be7649085228284}{%
+           family={Chistolini},
+           familyi={C\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=881aefdc6d5ecf619734a79ec7c98a36}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Shraddha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0755addaa9f10371b1161a5e812c4fb3}{%
+           family={Nesterov},
+           familyi={N\bibinitperiod},
+           given={Konstantin\bibnamedelima N.},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=536c902da80764705348be1e97883fa0}{%
+           family={Jünger},
+           familyi={J\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3494e201954c3d9b35bf1c655beeb9e8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ae170ef481b87147ed150b7bd82d130}{%
+           family={Pedramrazi},
+           familyi={P\bibinitperiod},
+           given={Zahra},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be1e694cecf33776211a6054c0cc432d}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Bradley\bibnamedelima K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4562b171a8fc29f7b38eda996879e73b}{%
+           family={Kreikebaum},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima Mark},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e87353998bc5444ec07ed2b21d2e233}{%
+           family={Puri},
+           familyi={P\bibinitperiod},
+           given={Shruti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2828a491e3a5ec17890f8c4d46fab4aa}{%
+           family={Santiago},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima I.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87601df04adf30927e0cfebed72f1fc8}{%
+           family={Siddiqi},
+           familyi={S\bibinitperiod},
+           given={Irfan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{995c85e7831e2b40013a1d005e0a38da}
+      \strng{fullhash}{89e3ce47c9f2e81a69a64c6ccb5cb762}
+      \strng{bibnamehash}{89e3ce47c9f2e81a69a64c6ccb5cb762}
+      \strng{authorbibnamehash}{89e3ce47c9f2e81a69a64c6ccb5cb762}
+      \strng{authornamehash}{995c85e7831e2b40013a1d005e0a38da}
+      \strng{authorfullhash}{89e3ce47c9f2e81a69a64c6ccb5cb762}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{issn}{2691-3399}
+      \field{journaltitle}{{PRX} Quantum}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{3}
+      \field{shortjournal}{{PRX} Quantum}
+      \field{title}{Blueprint for a High-Performance Fluxonium Quantum Processor}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{3}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{037001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PRXQuantum.3.037001
+      \endverb
+      \verb{file}
+      \verb Nguyen et al. - 2022 - Blueprint for a High-Performance Fluxonium Quantum.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\E7G2XGC5\\Nguyen et al. - 2022 - Blueprint for a High-Performance Fluxonium Quantum.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PRXQuantum.3.037001
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PRXQuantum.3.037001
+      \endverb
+      \keyw{Fluxonium,Theoretical}
+    \endentry
+    \entry{Pozar2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d24f273bc6b8cfcfddb47e3a592f97de}{%
+           family={Pozar},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, {NJ}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{fullhash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{bibnamehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{authorbibnamehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{authornamehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{authorfullhash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th ed}
+      \field{isbn}{978-0-470-63155-3}
+      \field{note}{{OCLC}: ocn714728044}
+      \field{pagetotal}{732}
+      \field{title}{Microwave engineering}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Pozar_Microwave Engineering(2012).pdf:C\:\\Users\\jiaop\\Zotero\\storage\\BLYB6F48\\Pozar_Microwave Engineering(2012).pdf:application/pdf
+      \endverb
+      \keyw{Microwave circuits,Microwave devices,Microwaves}
+    \endentry
+    \entry{Schuster2007}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a8abe3165134d1d44c3b345298fa5a4}{%
+           family={Schuster},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima Isaac},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{fullhash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{bibnamehash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{authorbibnamehash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{authornamehash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \strng{authorfullhash}{3a8abe3165134d1d44c3b345298fa5a4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Circuit Quantum Electrodynamics}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Schuster - Circuit Quantum Electrodynamics.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\SDP444WX\\Schuster - Circuit Quantum Electrodynamics.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Zmuidzinas2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e952cdd64c504471db03b03b1f1dc01a}{%
+           family={Zmuidzinas},
+           familyi={Z\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{fullhash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{bibnamehash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{authorbibnamehash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{authornamehash}{e952cdd64c504471db03b03b1f1dc01a}
+      \strng{authorfullhash}{e952cdd64c504471db03b03b1f1dc01a}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Interest in superconducting microresonators has grown dramatically over the past decade. Resonator performance has improved substantially through the use of improved geometries and materials as well as a better understanding of the underlying physics. These advances have led to the adoption of superconducting microresonators in a large number of low-temperature experiments and applications. This review outlines these developments, with particular attention given to the use of superconducting microresonators as detectors.}
+      \field{day}{1}
+      \field{issn}{1947-5454, 1947-5462}
+      \field{journaltitle}{Annual Review of Condensed Matter Physics}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Annu. Rev. Condens. Matter Phys.}
+      \field{shorttitle}{Superconducting Microresonators}
+      \field{title}{Superconducting Microresonators: Physics and Applications}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{169\bibrangedash 214}
+      \range{pages}{46}
+      \verb{doi}
+      \verb 10.1146/annurev-conmatphys-020911-125022
+      \endverb
+      \verb{file}
+      \verb Zmuidzinas - 2012 - Superconducting Microresonators Physics and Appli.pdf:C\:\\Users\\jiaop\\Zotero\\storage\\ES6TCPFV\\Zmuidzinas - 2012 - Superconducting Microresonators Physics and Appli.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.annualreviews.org/doi/10.1146/annurev-conmatphys-020911-125022
+      \endverb
+      \verb{url}
+      \verb https://www.annualreviews.org/doi/10.1146/annurev-conmatphys-020911-125022
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

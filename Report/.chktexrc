@@ -1,0 +1,5 @@
+# Ignore warnings related to hyphens and standalone closing parentheses
+W1 {    # Ignore warning 1
+    -       # Ignore hyphens
+    )       # Ignore standalone closing parentheses
+}

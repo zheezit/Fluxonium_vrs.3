@@ -1,0 +1,48 @@
+\pdfbookmark[1]{Design}{design}
+\chapter{Design}
+
+Based on the simulations above, we have a good idea of how big we want our capacitances and our josephson energies so they will meet the criterias found in the articles in section: theory - experimental perspective. However, The process of building superconducting qubits are not straight forward and even though many research groups and companies are doing it, it can still be a hassle to fabricate them in. 
+
+\section{Designing the Transmission line}
+With the help of David and Zhenhai. how do we get the impedane to be 50 ohm? aluminium
+\section{Designing the resonators}
+with the help of Zhenhai and David.
+how do we get the impedance to be 50 ohm? aluminium. 
+For the cavity - 3 different parameters the frequency, the resonator impedance and the quality factor: 
+    \subsection{frequency}
+        frequency - detmerined by the length of the resonator - the material you use should also be taken into account as it contains a diaelectric property. the effective speed of light can be calculated analytically using (for non-magnetic substrates) \cite{Schuster2007}: 
+        \begin{equation}
+            \begin{aligned}
+                v_{\text {eff }} &=\frac{c}{\sqrt{\mu_{\text {eff }} \epsilon_{\text {eff }}}} \approx \frac{c}{\sqrt{\epsilon_{\text {eff }}}} \\
+            \epsilon_{\mathrm{eff}} &=\frac{1+\epsilon_{\mathrm{r}} \widetilde{K}}{1+\widetilde{K}}
+            \end{aligned}
+        \end{equation}
+        \begin{equation}
+            \begin{gathered}
+            \widetilde{K}=\frac{K\left(k^{\prime}\right) K\left(k_3\right)}{K(k) K\left(k_3^{\prime}\right)} \\
+            k=\frac{a}{b} \\
+            k_3=\frac{\tanh \left(\frac{\pi a}{4 h}\right)}{\tanh \left(\frac{\pi b}{4 h}\right)} \\
+            k^{\prime}=\sqrt{1-k^2} \\
+            k_3^{\prime}=\sqrt{1-k_3^2}
+            \end{gathered}
+        \end{equation}
+    \subsection{resonator}
+        resonator impedance
+        the resonator pattern is made using lithography you use the cleaned wafer, then you put on 1 or 2 layers of photo-resist and then you spin it and bake it again. 
+
+        Lithography: 
+            then you are ready to put on your pattern using hard contact lithography. The photo-resist layer does only depend on the pre-baking temperature and not on the exposure to light \cite{Schuster2007}. in order to make sure you have done it right, you can use an optical microscope to check it. 
+        
+        deposition: 
+            dry etch and wet etch or lift-off process - dry etch is the best as wet etch is difficult to control. We are using aluminium ($T_c = 1.2 K$ have a low melting point, making it suitable for thermal or electron-beam evaporation) to evaporate onto our substrate.  it maybe would have been better to use tantalum ($T_c = 4 K$)? 
+            niobium has rough edges. 
+            Niobium, like tantalum, is a refractory metal, and cannot be thermally evaporated, but good film quality can be achieved by DC magnetron sputtering at room temperature
+\section{Designing the Josephson junctions}
+with the help of ferderico. we use the manhattan style, in order to fabricate the jj. 
+
+\section{Designing the Transmon}
+
+\section{Designing the flux tunable Transmon}
+
+\section{Designing the Fluxonium}
+    

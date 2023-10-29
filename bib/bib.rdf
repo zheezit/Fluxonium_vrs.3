@@ -1,0 +1,283 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="http://arxiv.org/abs/1904.06560">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1931-9401"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krantz</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kjaergaard</foaf:surname>
+                        <foaf:givenName>Morten</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yan</foaf:surname>
+                        <foaf:givenName>Fei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Orlando</foaf:surname>
+                        <foaf:givenName>Terry P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gustavsson</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oliver</foaf:surname>
+                        <foaf:givenName>William D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_869"/>
+        <link:link rdf:resource="#item_873"/>
+        <link:link rdf:resource="#item_875"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Quantum Physics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Condensed Matter - Mesoscale and Nanoscale Physics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Physics - Applied Physics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Quantum Engineer's Guide to Superconducting Qubits</dc:title>
+        <dcterms:abstract>The aim of this review is to provide quantum engineers with an introductory guide to the central concepts and challenges in the rapidly accelerating field of superconducting quantum circuits. Over the past twenty years, the field has matured from a predominantly basic research endeavor to one that increasingly explores the engineering of larger-scale superconducting quantum systems. Here, we review several foundational elements -- qubit design, noise properties, qubit control, and readout techniques -- developed during this period, bridging fundamental concepts in circuit quantum electrodynamics (cQED) and contemporary, state-of-the-art applications in gate-model quantum computation.</dcterms:abstract>
+        <dc:date>06/2019</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1904.06560</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-04 15:23:32</dcterms:dateSubmitted>
+        <dc:description>arXiv:1904.06560 [cond-mat, physics:physics, physics:quant-ph]</dc:description>
+        <bib:pages>021318</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1931-9401">
+        <prism:volume>6</prism:volume>
+        <dc:title>Applied Physics Reviews</dc:title>
+        <dc:identifier>DOI 10.1063/1.5089550</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Applied Physics Reviews</dcterms:alternative>
+        <dc:identifier>ISSN 1931-9401</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_869">
+       <rdf:value>Comment: 67 pages, 28 figures</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_873">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/873/Krantz et al. - 2019 - A Quantum Engineer's Guide to Superconducting Qubi.pdf"/>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1904.06560.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-04 15:23:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_875">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/875/1904.html"/>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1904.06560</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-04 15:23:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/1509.02921">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Greenbaum</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_871"/>
+        <link:link rdf:resource="#item_872"/>
+        <link:link rdf:resource="#item_874"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Quantum Physics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Introduction to Quantum Gate Set Tomography</dc:title>
+        <dcterms:abstract>Quantum gate set tomography (GST) has emerged as a promising method for the full characterization of quantum logic gates. In contrast to quantum process tomography (QPT), GST self-consistently and correctly accounts for state preparation and measurement (SPAM) errors. It therefore provides significantly more accurate estimates than QPT as gate fidelities increase into the fault-tolerant regime. We give a detailed review of GST and provide a self-contained guide to its implementation. The method is presented in a step-by-step fashion and relevant mathematical background material is included. Our goal is to demonstrate the utility of GST as both an accurate characterization technique and a simple and effective diagnostic tool. As an illustration, we compare the output of GST and QPT using simulated example data for a single qubit. In agreement with the original literature, we find that coherent errors are poorly estimated by QPT near quantum error correction thresholds, while GST is accurate in this regime.</dcterms:abstract>
+        <dc:date>2015-09-09</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1509.02921</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-04 15:23:34</dcterms:dateSubmitted>
+        <dc:description>arXiv:1509.02921 [quant-ph]</dc:description>
+        <prism:number>arXiv:1509.02921</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_871">
+       <rdf:value>Comment: 57 pages, 12 figures</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_872">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/872/Greenbaum - 2015 - Introduction to Quantum Gate Set Tomography.pdf"/>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1509.02921.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-04 15:23:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_874">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/874/1509.html"/>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1509.02921</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-04 15:23:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.aps.org/doi/10.1103/PhysRevApplied.14.064038">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2331-7019"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pita-Vidal</foaf:surname>
+                        <foaf:givenName>Marta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bargerbos</foaf:surname>
+                        <foaf:givenName>Arno</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Chung-Kai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Woerkom</foaf:surname>
+                        <foaf:givenName>David J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfaff</foaf:surname>
+                        <foaf:givenName>Wolfgang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haider</foaf:surname>
+                        <foaf:givenName>Nadia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krogstrup</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kouwenhoven</foaf:surname>
+                        <foaf:givenName>Leo P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Lange</foaf:surname>
+                        <foaf:givenName>Gijs</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kou</foaf:surname>
+                        <foaf:givenName>Angela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_876"/>
+        <dc:title>Gate-Tunable Field-Compatible Fluxonium</dc:title>
+        <dc:date>2020-12-14</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.aps.org/doi/10.1103/PhysRevApplied.14.064038</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-12-01 10:57:52</dcterms:dateSubmitted>
+        <bib:pages>064038</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2331-7019">
+        <prism:volume>14</prism:volume>
+        <dc:title>Physical Review Applied</dc:title>
+        <dc:identifier>DOI 10.1103/PhysRevApplied.14.064038</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Phys. Rev. Applied</dcterms:alternative>
+        <dc:identifier>ISSN 2331-7019</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_876">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/876/Pita-Vidal et al. - 2020 - Gate-Tunable Field-Compatible Fluxonium.pdf"/>
+        <dc:title>Pita-Vidal et al. - 2020 - Gate-Tunable Field-Compatible Fluxonium.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://curis.ku.dk/ws/files/254986178/PhysRevApplied.14.064038.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-12-01 10:57:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>

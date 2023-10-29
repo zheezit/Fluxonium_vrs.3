@@ -1,0 +1,99 @@
+\documentclass[paper = a4, 12pt, oneside]{scrbook}
+\usepackage{pre_style}
+% \usepackage{pre_math}
+
+% Bibliography
+\usepackage[backend=biber,style=apa, sorting = nyvt,citestyle=authoryear]{biblatex}
+% Add square brackets around the citation
+\DeclareCiteCommand{\cite}
+  {\usebibmacro{prenote}}
+  {\mkbibbrackets{\usebibmacro{citeindex}\usebibmacro{cite}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\addbibresource{bib.bib} % Import bibliography file
+
+
+\usepackage[acronym,automake]{glossaries}
+\makeglossaries 
+    \newacronym{cmp}{CMP}{Condensed Matter physics}
+    \newacronym{afm}{AFM}{Atomic Force Microscopy}
+    \newacronym{moke}{MOKE}{Magneto-Optical Kerr Effect}
+    \newacronym{xrd}{XRD}{X-Ray Diffraction}
+    \newacronym{mo}{MO}{Magneto-Optical}
+    \newacronym{si}{SI}{Supplementary Information}
+    \newacronym{ree}{REE}{Rare Rarth Element}
+    \newacronym{tm}{TM}{Transition Metal}
+    \newacronym{edx}{EDX}{Energy-Dispersive X-ray spectroscopy}
+    \newacronym{sem}{SEM}{Scanning Electron Microscopy}
+    \newacronym{mfm}{MFM}{Magnetic Force Microscopy}
+    \newacronym{mzm}{MZM}{Majorana Zero Mode}
+    \newacronym{cqed}{cQED}{circuit Quantum ElectroDynamics}
+    \newacronym{qed}{QED}{Quantum ElectroDynamics}
+    \newacronym{cpu}{CPU}{Central Processing Unit}
+    \newacronym{qpu}{QPU}{Quantum Processing Units}
+    \newacronym{bcs}{BCS}{Bardeen–Cooper–Schrieffer theory}
+    \newacronym{cpw}{CPW}{Coplanar Waveguide}
+    \newacronym{pcb}{PCB}{Printed Cirucit Board}
+    \newacronym{cpb}{CPB}{Cooper Pair Box}
+    \newacronym{rf}{RF}{Resonator Frequency}
+    \newacronym{odlro}{ODLRO}{Off Diagonal Long Range Order}
+    \newacronym{dc}{DC}{Direct Current Source}
+    
+% \begin{figure}[h]
+%     \centering
+%         \includegraphics[width = 13cm]{Images/}
+%         \caption[Chip overview]{\textbf{Chip overview:} }
+%         \label{fig:setup_qpu}
+% \end{figure}
+
+    
+\begin{document}
+    \input{titlepage}
+    \pagenumbering{roman}
+        \include{FrontBackMatter/abstract}
+        \include{FrontBackMatter/acknowledgements}
+        \setcounter{tocdepth}{2} % <-- 2 includes up to subsections in the ToC
+        \setcounter{secnumdepth}{2} % <-- 2 numbers up to subsubsections
+        \tableofcontents 
+        \listoffigures
+        \listoftables
+        \printglossary[type=\acronymtype]
+    \pagenumbering{arabic}
+        \part{Why is Fluxonium so interesting?}\label{part:I}
+            \include{introduction/introduction}
+            \include{introduction/outline.tex}
+        \part{Background - The building blocks of superconducting qubits}\label{part:II}
+            \include{background/background}
+            \include{background/resonators}
+            \include{background/jj}
+            \include{background/array_jj}
+            \include{background/Super_conducting_qubits}
+            \include{background/experimental perspective}
+        \part{Simulations}\label{part:III}
+            \include{simulations/simulations}
+        \part{Design and Fabrication}\label{part:IV} % i could make this section to "Design, fabrication- and characterization methods. and then put measuremnt setup in the next section 
+            \include{Design_fabrication/design}
+            \include{Design_fabrication/fabrication}
+        \part{Characterization and measurement}\label{part:V}
+            \include{characterization_measurements/Measurement_setup}
+            \include{characterization_measurements/characterization}
+        \part{Results, Data treatment and Discussion}\label{part:VI}
+            \include{results/results}
+            \include{results/discussion}
+        \part{Conclusion}\label{part:VII}
+            \include{conclusion/conclusion}
+            \include{conclusion/outlook}
+        \part{Appendices}\label{part:IIX}
+            \chapter{Supplementary information}
+                In the github you will find the supplementary information containing: 
+                \begin{itemize}
+                    \item Recipes
+                \end{itemize}
+    \pagenumbering{roman}
+    \medskip
+    \printbibliography[heading=bibintoc, title={Bibliography}] 
+    \clearpage    
+\end{document}
+
+
