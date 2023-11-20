@@ -1,0 +1,87 @@
+\vspace {-\cftbeforepartskip }
+\babel@toc {english}{}\relax 
+\contentsline {part}{\numberline {i}{Why is Fluxonium so interesting?}}{2}{part.1}%
+\contentsline {chapter}{\numberline {1}{Introduction}}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}{Outline}}{4}{chapter.2}%
+\contentsline {part}{\numberline {ii}{Background - The building blocks of superconducting qubits: circuit elements}}{5}{part.2}%
+\contentsline {chapter}{\numberline {3}{Resonators}}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}{Transmission line resonator modeled as a LC circuit}}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}{Transmission line resonator capacitively coupled to}}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}{Coplanar waveguide cavities modeled as LC circutis?}}{8}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}{Impedance}}{11}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}{Quality factors}}{12}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}{Looses in superconducting resonators}}{13}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}{Scattering Matrix}}{13}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}{Photon number}}{14}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}{Quantization of the LC harmonic oscillator}}{15}{subsection.3.3.6}%
+\contentsline {chapter}{\numberline {4}{Josephson junctions}}{16}{chapter.4}%
+\contentsline {section}{\numberline {4.1}{Superconductivity}}{16}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}{Mean field BCS theory and cooper pairs}}{18}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}{Josephson tunnel junction}}{19}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}{Manhattan style junction}}{21}{subsection.4.1.3}%
+\contentsline {chapter}{\numberline {5}{Array of Josephson junctions}}{22}{chapter.5}%
+\contentsline {section}{\numberline {5.1}{Superinductance}}{22}{section.5.1}%
+\contentsline {section}{\numberline {5.2}{Effective inductance}}{22}{section.5.2}%
+\contentsline {section}{\numberline {5.3}{Inductive loss in Josephson junction arrays}}{22}{section.5.3}%
+\contentsline {chapter}{\numberline {6}{Superconducting qubits}}{23}{chapter.6}%
+\contentsline {section}{\numberline {6.1}{Interaction of atoms and electromagnetic waves}}{23}{section.6.1}%
+\contentsline {section}{\numberline {6.2}{Superconducting circuits architecture}}{23}{section.6.2}%
+\contentsline {section}{\numberline {6.3}{The Transmon}}{24}{section.6.3}%
+\contentsline {section}{\numberline {6.4}{The Flux qubit}}{24}{section.6.4}%
+\contentsline {section}{\numberline {6.5}{Fluxonium qubit}}{25}{section.6.5}%
+\contentsline {section}{\numberline {6.6}{Noise and Decoherence time of qubits}}{26}{section.6.6}%
+\contentsline {paragraph}{{$T_1$}}{26}{paragraph*.12}%
+\contentsline {paragraph}{{$T_{\phi }$}}{27}{paragraph*.13}%
+\contentsline {paragraph}{{$T_2$}}{27}{paragraph*.14}%
+\contentsline {paragraph}{{$T_2, ramsey$}}{27}{paragraph*.15}%
+\contentsline {paragraph}{{$T_2,echo$}}{27}{paragraph*.16}%
+\contentsline {chapter}{\numberline {7}{Experimental discoveries of Fluxonium fabrication so far}}{28}{chapter.7}%
+\contentsline {section}{\numberline {7.1}{The first fluxonium paper - Manucharyan2009}}{29}{section.7.1}%
+\contentsline {part}{\numberline {iii}{Simulations}}{30}{part.3}%
+\contentsline {chapter}{\numberline {8}{Simulation Fluxonium spectrum in python}}{32}{chapter.8}%
+\contentsline {section}{\numberline {8.1}{Simulating energy eigenvalues and wave function using numerical analysis of the Hamiltonian}}{32}{section.8.1}%
+\contentsline {section}{\numberline {8.2}{Conclusion on this section}}{36}{section.8.2}%
+\contentsline {chapter}{\numberline {9}{Simulations of Energy level of Newfluxonium in python}}{37}{chapter.9}%
+\contentsline {chapter}{\numberline {10}{Simulation of Fluxonium circuit design in Ansys}}{38}{chapter.10}%
+\contentsline {chapter}{\numberline {11}{Simulation of capacitance of Fluxonium in Ansys}}{39}{chapter.11}%
+\contentsline {chapter}{\numberline {12}{Simulation of Newfluxonium circuit design in Ansys}}{40}{chapter.12}%
+\contentsline {part}{\numberline {iv}{Design and Fabrication}}{41}{part.4}%
+\contentsline {chapter}{\numberline {13}{Design}}{42}{chapter.13}%
+\contentsline {section}{\numberline {13.1}{Designing the Transmission line}}{42}{section.13.1}%
+\contentsline {section}{\numberline {13.2}{Designing the resonators}}{42}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}{frequency}}{42}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}{resonator}}{43}{subsection.13.2.2}%
+\contentsline {section}{\numberline {13.3}{Designing the Josephson junctions}}{43}{section.13.3}%
+\contentsline {section}{\numberline {13.4}{Designing the Transmon}}{43}{section.13.4}%
+\contentsline {section}{\numberline {13.5}{Designing the flux tunable Transmon}}{43}{section.13.5}%
+\contentsline {section}{\numberline {13.6}{Designing the Fluxonium}}{43}{section.13.6}%
+\contentsline {chapter}{\numberline {14}{Fabrication methods}}{44}{chapter.14}%
+\contentsline {section}{\numberline {14.1}{cleaning}}{44}{section.14.1}%
+\contentsline {section}{\numberline {14.2}{CPB}}{44}{section.14.2}%
+\contentsline {section}{\numberline {14.3}{Circuit board}}{44}{section.14.3}%
+\contentsline {part}{\numberline {v}{Characterization and measurement}}{45}{part.5}%
+\contentsline {chapter}{\numberline {15}{Measurement setup}}{46}{chapter.15}%
+\contentsline {chapter}{\numberline {16}{2 probe measurements}}{48}{chapter.16}%
+\contentsline {chapter}{\numberline {17}{Resonators}}{49}{chapter.17}%
+\contentsline {chapter}{\numberline {18}{Measurement of Fluxonium qubit}}{50}{chapter.18}%
+\contentsline {chapter}{\numberline {19}{Calibration}}{51}{chapter.19}%
+\contentsline {subsection}{\numberline {19.0.1}{Josephson junction}}{51}{subsection.19.0.1}%
+\contentsline {chapter}{\numberline {20}{Characterization}}{52}{chapter.20}%
+\contentsline {section}{\numberline {20.1}{Optimization of the Fluxonium qubits}}{52}{section.20.1}%
+\contentsline {section}{\numberline {20.2}{Gates}}{52}{section.20.2}%
+\contentsline {subsection}{\numberline {20.2.1}{Single qubit gates}}{52}{subsection.20.2.1}%
+\contentsline {subsection}{\numberline {20.2.2}{Two qubit gates}}{52}{subsection.20.2.2}%
+\contentsline {section}{\numberline {20.3}{Fluxonium Universal Gate set}}{52}{section.20.3}%
+\contentsline {section}{\numberline {20.4}{Optimization of the Fluxonium qubit gates}}{52}{section.20.4}%
+\contentsline {part}{\numberline {vi}{Results, Data treatment and Discussion}}{53}{part.6}%
+\contentsline {chapter}{\numberline {21}{Results. data treatment and discussion}}{54}{chapter.21}%
+\contentsline {section}{\numberline {21.1}{Resonators}}{54}{section.21.1}%
+\contentsline {subsection}{\numberline {21.1.1}{The fitting of the resonator peak}}{54}{subsection.21.1.1}%
+\contentsline {chapter}{\numberline {22}{Discussion}}{56}{chapter.22}%
+\contentsline {part}{\numberline {vii}{Conclusion}}{57}{part.7}%
+\contentsline {chapter}{\numberline {23}{Conclusion}}{58}{chapter.23}%
+\contentsline {chapter}{\numberline {24}{Outlook}}{59}{chapter.24}%
+\contentsline {part}{\numberline {viii}{Appendices}}{60}{part.8}%
+\contentsline {chapter}{\numberline {25}{Supplementary information}}{i}{chapter.25}%
+\contentsline {chapter}{{Bibliography}}{ii}{chapter*.21}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

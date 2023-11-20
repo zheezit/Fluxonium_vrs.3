@@ -17,7 +17,7 @@
     
         
 \section{Superconducting circuits architecture}
-    A classical circuit consists of components like capacitors, inductors, and resistors. The components are referred to as branches and these are connected by wires called nodes \cite{Griffiths2018}. A closed path where each node and branch only are represented once, is called a loop. One can utilize superconducting materials in order to fabricate the circuit components. Doing so, quantum mechanic effects will be non-neglectful and should be taken into account \cite{Girvin2014}. The strategy for describing the dynamics in quantum circuits is to use analytical mechanics and electrodynamics. Then we will quantize the charge and the flux to end up with the Hamiltonian of our system \cite{Krantz2019}. We relate the magnetic flux to the phase as  $\Phi= \frac{1}{2\pi}\Phi_{0} \phi \Rightarrow \phi = \frac{\Phi 2 \pi}{\Phi_0}$. The phase can also be interpreted as the reduced flux quantum. Then the energies of the different components are: 
+    A classical circuit consists of components like capacitors, inductors, and resistors. The components are referred to as branches and these are connected by wires called nodes \cite{Griffiths2018}. A closed path where each node and branch only are represented once, is called a loop. One can utilize superconducting materials in order to fabricate the circuit components. Doing so, quantum mechanic effects will be non-neglectful and should be taken into account \cite{Girvin2014}. The strategy for describing the dynamics in quantum circuits is to use analytical mechanics and electrodynamics. Then we will quantize the charge and the flux to end up with the Hamiltonian of our system \cite{Krantz2019}. We relate the magnetic flux to the phase as  $\Phi= \frac{1}{2\pi}\Phi_{0} \phi \Rightarrow \phi = \frac{\Phi 2 \pi}{\Phi_0}$. The phase can also be interpreted as the reduced flux quantum. The fundamental building blocks of a quantum computer is the above mentioned compnents. (Mention also the capacitor) the JJ junction, the resonator and the Josephson junction array which work as an inductor. You can put them together in many different ways in order to obtain the right properties.  Then the energies of the different components are: 
     \begin{equation}
         \begin{aligned}
             Capacitor:& \quad h_C  = \frac{C}{2} \Dot{\Phi}^2     \\ 
@@ -67,6 +67,11 @@
     Often in the literature, the flux qubit and the charge qubit are the name for the superconducting qubits which rely on the manipulation of magnetic flux or charge to change the qubit state
     \\
     The fluxonium qubit qubit was a design for a type of flux qubits which tries to enhance the anharmonicity and the coherence time making it more interesting for use as building block for a quantum computer. 
+    \\
+    I dont know where to place this: In Manucharyan2009 \Cite{Manucharyan2009} there are this formula
+    \begin{equation}
+        E_L = \frac{(\frac{\Phi_0}{2 \pi})^2}{L_A}, E_J =\frac{(\frac{\Phi_0}{2 \pi})^2}{L_J}, E_C = \frac{e^2}{2C_J} 
+    \end{equation}
     
 
 \section{Fluxonium qubit}
